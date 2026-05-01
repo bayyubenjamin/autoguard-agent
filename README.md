@@ -5,7 +5,7 @@
 AutoGuard is an autonomous AI agent that continuously monitors system health, detects anomalies, and automatically takes action without human intervention.
 
 It is built using Cloudflare Workers and demonstrates a complete agent loop:
-monitoring → decision → action.
+**monitoring → decision → action**.
 
 ## How It Works
 
@@ -27,7 +27,8 @@ https://autoguard-agent.autoguard-agent.workers.dev
 
 ## Demo Video
 
-[(Insert your video link here)](https://ik.imagekit.io/5spt6gb2z/IMG_7464.MOV)
+Watch here:
+https://ik.imagekit.io/5spt6gb2z/IMG_7464.MOV
 
 ## Tech Stack
 
@@ -37,3 +38,5 @@ https://autoguard-agent.autoguard-agent.workers.dev
 ## Notes
 
 The agent includes fallback logic to ensure reliability even when AI is unavailable, making it more robust in real-world scenarios.
+
+This agent is designed to integrate with verified agent identity systems like SelfClaw, enabling trust and accountability in autonomous systems.
